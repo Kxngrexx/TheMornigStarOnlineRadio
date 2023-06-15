@@ -9,6 +9,7 @@
     margin-right:Auto;
     color: rgb(0, 0, 0);
     padding-top: 5px;
+    width: auto;
     height: 45px;
     overflow: hidden;
     
@@ -55,14 +56,14 @@
 body{
    
     background-image:url(https://images.freeimages.com/images/large-previews/9f7/sunset-at-st-kilda-pier-1640337.jpg);
-    
+
     
 }
 .programs{
     border: 1px solid rgba(0, 0, 0, 0.199);
     background-color:rgba(0, 0, 0, 0.384);
     border-radius: 30px;
-    width: 800px;
+    width: 900px;;
     height: 85px;
     display: inline;
     color: white;
@@ -72,6 +73,7 @@ body{
     transition: 0.3s;
     overflow:clip;
     overflow-x: hidden;
+    
 
 
 
@@ -105,6 +107,7 @@ body{
     font-size: 16.5px;
     cursor: pointer;
     transition: 0.3s;
+    font-size:x-large ;
    
 
 
@@ -124,7 +127,7 @@ body{
     
 }
 .info{
-    color: lightgrey;
+    color: rgb(255, 255, 255);
     font-size:large;
 }
 .arrow{
